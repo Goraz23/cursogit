@@ -8,5 +8,11 @@
 * Grand Theft Auto
 * Halo
 * Halo II
+* Halo III
 * Destiny
+<<<<<<< HEAD
 * Andrea
+=======
+
+
+>>>>>>> 593925e925be3d607853d23fd67f388f980e5ac7
